@@ -1,0 +1,12 @@
+{
+  "name": "@nikic/eslint-config",
+  "version": "1.0.2",
+  "description": "Standard ES7 microservice eslint config extension",
+  "author": "Goran",
+  "main": "lib/index.js",
+  "license": "ISC",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Goran-n/ncl-eslint-config"
+  }
+}

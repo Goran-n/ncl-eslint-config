@@ -1,6 +1,6 @@
 {
   "name": "@nikic/eslint-config",
-  "version": "1.0.4",
+  "version": "2.0.0-beta.1",
   "description": "Standard ES7 microservice eslint config extension",
   "author": "Goran",
   "main": "lib/index.js",
